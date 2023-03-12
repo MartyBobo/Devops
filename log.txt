@@ -1,0 +1,5 @@
+commit 217b128fc2ce0dc00421b9a2e68c3a122e7b5efc
+Author: martybobo <martin.rosendahl4@gmail.com>
+Date:   Sun Mar 12 11:40:49 2023 +0100
+
+    added bashscripts and docker files
